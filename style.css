@@ -1,0 +1,27 @@
+h2 {
+    color: orange;
+}
+
+body{
+    background-color: #305050;
+    color: white;
+    font-family: Calibri;
+    text-align: center;
+    
+}
+
+header{
+    border-bottom: 1px solid gray;
+}
+
+footer{
+    border-top: 1px solid gray;
+}
+
+#usuário{
+    font-weight: bold;   
+}
+
+.texto-itálico{
+    font-style: italic;
+}
